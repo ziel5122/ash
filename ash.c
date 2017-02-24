@@ -51,8 +51,6 @@ int execute(char **tokens) {
 */
 	}
 
-	printf("ya");
-
 	return 1;
 }
 
